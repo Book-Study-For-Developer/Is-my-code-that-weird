@@ -1,4 +1,6 @@
-## ![image]()
+## <img src="https://github.com/Book-Study-For-Developer/Is-my-code-that-weird/assets/51049245/4b68aa24-f91a-4adf-8826-0d25d72b25df" width="400px" height="100%"/>
+
+
 
 - ⏰ 스터디 일시: 격주 목요일 20시
 - 🏫 스터디 장소: 오프라인
