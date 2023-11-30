@@ -39,17 +39,17 @@
   </tr>
   <tr>
     <td>
-      <a href="https://github.com/haryan248">
+      <a href="https://github.com/GymYJ">
         장유진
       </a>
     </td>
     <td>
-      <a href="https://github.com/wontory">
+      <a href="https://github.com/haryan248">
         하현준
       </a>
     </td>
     <td>
-      <a href="https://github.com/guesung">
+      <a href="https://github.com/poArlim">
         임아론
       </a>
     </td>
