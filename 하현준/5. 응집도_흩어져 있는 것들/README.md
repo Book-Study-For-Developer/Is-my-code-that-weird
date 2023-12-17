@@ -196,7 +196,7 @@ class Location {
 * @return 회복 후의 매직포인트 잔량
 */
 
-recoverMagicPoint(currentMaxMagicPoint: number, originalMaxMagicPoint: number, maxMagicPointIncrements: Array<number>, recoveryAmount: number): number [
+recoverMagicPoint(currentMaxMagicPoint: number, originalMaxMagicPoint: number, maxMagicPointIncrements: Array<number>, recoveryAmount: number): number {
 	let currentMaxMagicPoint = originalMaxMagicPoint;
 
 	maxMagicPointIncrements.forEach((each) => {

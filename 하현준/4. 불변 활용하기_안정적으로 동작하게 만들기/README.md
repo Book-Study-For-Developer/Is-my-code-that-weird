@@ -274,13 +274,13 @@ class HitPoint {
 }
 
 class Member {
-	private hitPoint: HitPoint;
+    private hitPoint: HitPoint;
 	private states: States;
 
 	// 초기값 세팅
-  constructor(amount: number) {
-    this.hitPoint = new HitPoint(amount);
-  }
+    constructor(amount: number) {
+        this.hitPoint = new HitPoint(amount);
+    }
 
 	damage(damageAmount: number): void {
 		this.hitPoint.damage(damageAmount);
