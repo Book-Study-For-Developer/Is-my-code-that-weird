@@ -234,8 +234,6 @@ console.log(weaponB.getAttackPower().getValue()); // 20
 -   히트포인트는 0이상
 -   히트포인트가 0이 되면, 사망 상태로 변경
 
-동작하지 않는 코드
-
 ```tsx
 class HitPoint {
     amount: number;
@@ -252,8 +250,6 @@ class Member {
 ```
 
 0이 되어도 사망상태로 바꾸지 않는다. 상태를 변화 시키는 메서드(뮤테이터)로 상태를 변경해야 한다.
-
-정상 동작하는 로직
 
 ```tsx
 class HitPoint {
